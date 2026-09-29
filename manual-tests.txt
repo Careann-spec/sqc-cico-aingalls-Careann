@@ -77,6 +77,17 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Should prevent the last digit, int his case 1, from being entered into the field
 
+# Module 5: Quit application when window is closed
+
+## Test steps
+1. Launch the application.
+2. Click the window's close button (X).
+
+## Expected results
+* The application process ends on its own.
+* "Clean shutdown" appears in the shell.
+* No need to manually stop the program.
+
 
 
 
